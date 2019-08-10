@@ -1,3 +1,6 @@
 0x141BD0B10 - SystemGlobalEnv
 "i_pelletsDisp",v3 + 0x124 
 "i_zoomed_inertia",v3 + 284
+RayWorldIntersection (SSGE + ADR) 0x44
+IGame = 0x141ED9588  
+ICVar = 0x141ED9590
